@@ -26,7 +26,7 @@ Players explore Shiv’s subconscious, reliving key moments in his life and help
 | Name               | GitHub Username                                            | Contributions                                                   |
 |--------------------|------------------------------------------------------------|------------------------------------------------------------------|
 | Chinmay Biswas     | [@Chinmay-biswas](https://github.com/Chinmay-biswas)       | Project Lead. Led Unity-based scene design, animation integration, visual polish, and deployment. Collaborated on game logic implementation and level mechanics. |
-| Samarth Singh Negi | [@samarth-negi](https://github.com/samarth-negi)           | Narrative Designer & Co-developer. Authored the full game storyline and symbolic structure. Implemented game logic, mini-game scripting in JavaScript, and UI/narrative transitions. |
+| Samarth Singh Negi | [@samarth-negi](https://github.com/sherosomu)           | Narrative Designer & Co-developer. Authored the full game storyline and symbolic structure. Implemented game logic, mini-game scripting in JavaScript, and UI/narrative transitions. |
  ---
 
 
