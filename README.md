@@ -25,9 +25,9 @@ Players explore Shiv’s subconscious, reliving key moments in his life and help
 
 | Name               | GitHub Username                                            | Contributions                                                   |
 |--------------------|------------------------------------------------------------|------------------------------------------------------------------|
-| Kartikey Dhiman    | [@kartikey-6141](https://github.com/kartikey-6141)             | Art & Asset Design. Designed custom 2D visual elements, sourced and curated game assets, and developed dynamic lighting scripts to enhance the atmospheric visual experience. |
 | Chinmay Biswas     | [@Chinmay-biswas](https://github.com/Chinmay-biswas)       | Project Lead. Led Unity-based scene design, animation integration, visual polish, and deployment. Collaborated on game logic implementation and level mechanics. |
 | Samarth Singh Negi | [@samarth-negi](https://github.com/sherosomu)           | Narrative Designer & Co-developer. Authored the full game storyline and symbolic structure. Implemented game logic, mini-game scripting in JavaScript, and UI/narrative transitions. |
+| Kartikey Dhiman    | [@kartikey-6141](https://github.com/kartikey-6141)             | Art & Asset Design. Designed custom 2D visual elements, sourced and curated game assets, and developed dynamic lighting scripts to enhance the atmospheric visual experience. |
  ---
 
 
