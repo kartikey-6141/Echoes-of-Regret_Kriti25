@@ -3,7 +3,7 @@
 **Echoes of Regret** is an emotionally-driven 2D narrative game that blends storytelling with gameplay. Players experience Shiv's journey through trauma, addiction, and ultimately, redemption — each phase represented through symbolic mini-games and an emotional climax.
 
 🔗 [Play on Itch.io](https://chinmaybiswas475.itch.io/echoes-of-regret)  
-📦 [GitHub Repo](https://github.com/Chinmay-biswas/Echoes-of-Regret)
+📦 [GitHub Repo](https://github.com/kartikey-6141/Echoes-of-Regret_Kriti25)
 
 ---
 
@@ -25,6 +25,7 @@ Players explore Shiv’s subconscious, reliving key moments in his life and help
 
 | Name               | GitHub Username                                            | Contributions                                                   |
 |--------------------|------------------------------------------------------------|------------------------------------------------------------------|
+| Kartikey Dhiman    | [@kartikey-6141](https://github.com/kartikey-6141)             | Art & Asset Design. Designed custom 2D visual elements, sourced and curated game assets, and developed dynamic lighting scripts to enhance the atmospheric visual experience. |
 | Chinmay Biswas     | [@Chinmay-biswas](https://github.com/Chinmay-biswas)       | Project Lead. Led Unity-based scene design, animation integration, visual polish, and deployment. Collaborated on game logic implementation and level mechanics. |
 | Samarth Singh Negi | [@samarth-negi](https://github.com/sherosomu)           | Narrative Designer & Co-developer. Authored the full game storyline and symbolic structure. Implemented game logic, mini-game scripting in JavaScript, and UI/narrative transitions. |
  ---
